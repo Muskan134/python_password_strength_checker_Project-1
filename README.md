@@ -1,6 +1,6 @@
-# Password Strength Checker 🔐
+## Password Strength Checker 🔐
 
-# 📌 Project Description
+## 📌 Project Description
 This project is a Python-based Password Strength Checker that evaluates the security level of a given password.
 
 It checks password strength based on:
